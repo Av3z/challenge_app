@@ -28,6 +28,9 @@ $ git clone git@github.com:Av3z/challenge_app.git
 # entrando na pasta do projeto:
 $ cd challenge_app
 
+# rode esse comando para baixar os pacotes do projeto.
+$ flutter pub get
+
 # para inciar o projeto:
 $ flutter run
 
