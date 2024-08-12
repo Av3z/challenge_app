@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113758433017",
+    "project_id": "todo-challenge-d0cf0",
+    "storage_bucket": "todo-challenge-d0cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113758433017:android:d369d2a0752678ead9fc28",
+        "android_client_info": {
+          "package_name": "com.wltisolutions.challenge_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo4ca8XTuwyk6G2ykYQmc3bUrz2FoXMcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
